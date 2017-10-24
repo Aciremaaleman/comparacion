@@ -8,3 +8,6 @@ Pseudocódigo
  3.2 si los arreglos son iguales continuamos comparando uno a uno
 4. Si el paso tres se completa regresar true.
 5. fin.
+
+
+![Esta es la imagen del diagrama](Diagrama.jpg)
